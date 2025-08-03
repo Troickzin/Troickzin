@@ -1,12 +1,12 @@
 
-<h1 align="center">Olá! Tudo bem? este e meu github 🔷</h1>
+<h1 align="center">Olá! Tudo bem? este é meu github 🔷</h1>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://i.imgur.com/9WMvXKJ.png"  />
+  <img height="250" src="https://ovicio.com.br/wp-content/uploads/2024/06/20240624-my-hero-academia-manga-ovicio.webp"  />
 </div>
 
 ###
@@ -28,7 +28,7 @@
 ###
 <!-- https://i.imgur.com/gMQMsSB.jpeg -->
 <!-- https://i.imgur.com/yAUaOoj.png -->
-<img align="right" height="200" src="https://i.imgur.com/gMQMsSB.jpeg"  />
+<img align="right" height="200" src="https://i.pinimg.com/474x/a4/d0/11/a4d011377a7d12f0a022841b9cbe8ca0.jpg"  />
 
 ###
 
@@ -68,18 +68,6 @@
 </div>
 
 ###
-
-***
-
-<h3 align="center">🔷 Projetos</h3>
-	
-###
-
-<p align="center">Atualmente estou desenvolvendo meu proprio projeto pessoal, o Troick Studio.</p>
-
-<div  align="center">
-  <img src="https://i.imgur.com/XTSyWNk.png" height="60" />
-</div>
 
 ***
 
