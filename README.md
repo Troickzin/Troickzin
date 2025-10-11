@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">▫️Me chamo Edson Luiz Mendonça Ramos<br>▫️Tenho 19 anos<br>▫️Estou cursando Sistemas de Informação  <br>▫️Atualmente ampliando meu leque de habilidades é linguagens</p>
+<p align="left">▫️Me chamo Edson Luiz<br>▫️Tenho 19 anos<br>▫️Estou cursando Sistemas de Informação  <br>▫️Atualmente ampliando meu leque de habilidades é linguagens</p>
 
 ###
 
@@ -74,8 +74,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdsonLuizMRamos&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdsonLuizMRamos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Troickzin&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Troickzin&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
