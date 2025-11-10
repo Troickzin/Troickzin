@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Tudo bem? este é meu github 🔷</h1>
+<h1 align="center">Olá! Tudo bem? este é meu Github 🔷</h1>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">▫️Me chamo Edson Luiz<br>▫️Tenho 19 anos<br>▫️Estou cursando Sistemas de Informação  <br>▫️Atualmente ampliando meu leque de habilidades é linguagens</p>
+<p align="left">▫️Olá, eu sou o Troick<br>▫️Tenho 19 anos<br>▫️Estou cursando Sistemas de Informação  <br>▫️Atualmente ampliando meu leque de habilidades é linguagens</p>
 
 ###
 
